@@ -132,7 +132,7 @@ favicon:
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
 # Theme Configurations
-colorscheme: white
+colorscheme: dark
 
 # Maximal width of the page in rem units.
 page_width: 48
